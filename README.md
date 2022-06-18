@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am Anil Anvesh. You can call me Anvesh 
+I am Anil Anvesh. Legal name: Anil Kumar Poda
 
-- 💻  I’m currently working on ... Data Science - ML - AI
-- 🖥  I’m currently improving ... ML - AI
+- 💻  I’m currently working as ... Data Analyst
+- 🖥  I’m currently improving ... ML - Deep Learning
 - 👯  I’m looking to collaborate on ... ML - AI Projects
 - 🤔  I’m looking for help with ... Co-Practice on DS - ML - AI
 - 💬  Ask me about ... India 
